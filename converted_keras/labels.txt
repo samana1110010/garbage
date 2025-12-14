@@ -1,0 +1,3 @@
+0 wet waste
+1 dry waste
+2 e waste
